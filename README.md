@@ -52,7 +52,7 @@ This project consists of Jupyter notebooks that guides you through each analytic
 
 # Note
 
-Please note that you will need to download the TLE datasets from Space-Track.org after creating a valid account. The datasets are not included in this repository due to licensing restrictions.
+Please note that you will need to download the TLE datasets from Space-Track.org after creating a valid account. The datasets are not included in this repository due to size restrictions.
 
 
 
