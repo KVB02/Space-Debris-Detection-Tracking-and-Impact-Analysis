@@ -50,6 +50,12 @@ Begin with data preprocessing to load and clean the dataset. Merge the TLE data 
 
 This project consists of Jupyter notebooks that guides you through each analytical phase, from data loading and preprocessing to implementing LSTM and GDBT models for predicting space debris trajectories.
 
+# Note
+
+Please note that you will need to download the TLE datasets from Space-Track.org after creating a valid account. The datasets are not included in this repository due to licensing restrictions.
+
+
+
 # Contributing
 
 We welcome contributions to enhance the project's scope or improve its methodology. Please see the contributing guidelines for more details.
